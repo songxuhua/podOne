@@ -1,0 +1,6 @@
+framework module PodOne {
+  umbrella header "PodOne-umbrella.h"
+
+  export *
+  module * { export * }
+}

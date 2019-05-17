@@ -1,0 +1,22 @@
+{
+  "name": "PodOne",
+  "version": "0.1.0",
+  "summary": "A short description of PodOne.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/877340657@qq.com/PodOne",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "877340657@qq.com": "877340657@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/877340657@qq.com/PodOne.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodOne/Classes/**/*"
+}
